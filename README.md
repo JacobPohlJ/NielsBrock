@@ -1,5 +1,6 @@
 # NielsBrock
 
+
 Download VSC - https://code.visualstudio.com/download
 
 
@@ -19,5 +20,7 @@ Python download mac - https://www.python.org/downloads/
 Test om python er blevet downloadet ved at åbne “Terminal” og skriv:  python3 --version
 
 
-
 Når du har åbnet VSC skal du downloade extension jupyter - ms-toolsai.jupyter
+
+
+Når det hele er installeret kan du begynde at løse opgaverne i den fil der hedder learning.ipynb
