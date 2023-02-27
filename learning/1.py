@@ -1,0 +1,1 @@
+# Lav dit første print statement. Skriv koden nedenunder. print() og kør koden.

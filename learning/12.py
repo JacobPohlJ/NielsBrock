@@ -1,0 +1,1 @@
+# I denne function skal du spørge brugeren om 2 integers og gange dem sammen og printe resultatet
